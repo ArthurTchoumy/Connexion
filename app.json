@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "useStates",
+    "slug": "useStates",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./ressources/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./ressources/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#039BE5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./ressources/logo.png",
+        "backgroundColor": "#039BE5"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
